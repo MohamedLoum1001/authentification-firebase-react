@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/authentification-firebase-react/static/css/main.399ff0d2.css",
+    "main.js": "/authentification-firebase-react/static/js/main.24b30879.js",
+    "index.html": "/authentification-firebase-react/index.html",
+    "main.399ff0d2.css.map": "/authentification-firebase-react/static/css/main.399ff0d2.css.map",
+    "main.24b30879.js.map": "/authentification-firebase-react/static/js/main.24b30879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.399ff0d2.css",
+    "static/js/main.24b30879.js"
+  ]
+}
